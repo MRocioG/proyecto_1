@@ -5,3 +5,4 @@ tortilla de patata
     batir huevos
     freir las patatas
     freir la cebolla
+    juntar la patata y la cebolla frita con los huevos batidos, echar sal
