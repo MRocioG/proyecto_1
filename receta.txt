@@ -3,3 +3,4 @@ tortilla de patata
     pelar las patatas
     cortar la cebolla
     batir huevos
+    freir las patatas
