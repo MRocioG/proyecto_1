@@ -6,3 +6,7 @@ sal
 tomates
 pepinos
 ajos
+lechuga
+pimiento
+vinagre
+
